@@ -1,8 +1,8 @@
 {
-  "name": "red-giant-rlm",
+  "name": "electron-vue-template",
   "version": "0.0.1",
   "author": "andyhorn <andyjhorn@gmail.com>",
-  "description": "A docker-based RLM management utility",
+  "description": "An electron-vue template project",
   "license": null,
   "main": "./dist/electron/main.js",
   "scripts": {
@@ -19,8 +19,8 @@
     "postinstall": "npm run lint:fix"
   },
   "build": {
-    "productName": "red-giant-rlm",
-    "appId": "com.redgiant.rlm-manager",
+    "productName": "electron-vue-template",
+    "appId": "com.electron-vue.template",
     "directories": {
       "output": "build"
     },
